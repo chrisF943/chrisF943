@@ -9,16 +9,15 @@ I am in my final year of my BAS for Computing Technology and Software Developmen
 I have recently learned Python as my second language after Java and it quickly has become my favorite. 
 I look to learn web development next and create some personal projects. Always looking to learn new features and skillsets.
 
-### My Hobbies-
+### My hobbies-
 
 - 📺Watching basketball, football and baseball.
 - 🏓Playing pickleball.
 - 🎮Playing videogames like Borderlands and Rocket League.
 - 🍔Trying new restaurants.
 
-### 📞I can be reached at-
+### Connect with me-
 
-- chris.faris@icloud.com
 - [LinkedIn](https://www.linkedin.com/in/christopher-faris-58145328a/)
 - [My Webpage](https://chrisfaris.infinityfreeapp.com/)
 
