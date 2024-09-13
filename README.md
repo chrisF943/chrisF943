@@ -11,12 +11,12 @@ my workstation of choice because of the integration with my other Apple products
 
 ### My Hobbies-
 
-- Watching basketball, football and baseball.
-- Playing pickleball.
-- Playing videogames like Borderlands and Rocket League.
-- Trying new restaurants.
+- 📺Watching basketball, football and baseball.
+- 🏓Playing pickleball.
+- 🎮Playing videogames like Borderlands and Rocket League.
+- 🍔Trying new restaurants.
 
-### I can be reached at-
+### 📞I can be reached at-
 
 - chris.faris@icloud.com
 - [LinkedIn](https://www.linkedin.com/in/christopher-faris-58145328a/)
