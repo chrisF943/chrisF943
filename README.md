@@ -6,8 +6,8 @@
 
 I moved here from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
 I am in my final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have recently learned Python as my second language after Java and it quickly has become my favorite. Mac is
-my workstation of choice because of the integration with my other Apple products.
+I have recently learned Python as my second language after Java and it quickly has become my favorite. 
+I look to learn web development next and create some personal projects. Always looking to learn new features and skillsets
 
 ### My Hobbies-
 
