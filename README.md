@@ -18,6 +18,7 @@ I look to learn web development next and create some personal projects. Always l
 - [Java/SQLite library management system](https://github.com/chrisF943/Faris_Chris_LMS)
 - [Hibernate To-Do list app](https://github.com/chrisF943/To-Do-App)
 - [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
+- [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
 
 | 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
