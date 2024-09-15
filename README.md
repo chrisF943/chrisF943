@@ -14,6 +14,15 @@ I look to learn web development next and create some personal projects. Always l
 - 🎮Playing videogames like Borderlands and Rocket League.
 - 🍔Trying new restaurants.
 
+### Some of my projects-
+- [Java/SQLite library management system](https://github.com/chrisF943/Faris_Chris_LMS)
+- [Hibernate To-Do list app](https://github.com/chrisF943/To-Do-App)
+- [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
+
+| 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
+|   :---:     |    :---:    |     :---:     | 
+| PyCharm      | Python       | Make a website with Flask   |
+
 ### Connect with me-
 
 - [LinkedIn](https://www.linkedin.com/in/christopher-faris-58145328a/)
