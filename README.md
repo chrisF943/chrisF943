@@ -1,7 +1,5 @@
 # 👋Christopher Faris - Programmer and Student at Valencia College
 
-## 📚My favorite class at the moment is Seminar in Advanced Software Development
-
 ### A little bit about me:
 
 I moved here from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
