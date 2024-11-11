@@ -22,11 +22,12 @@ I look to learn web development next and create some personal projects. Always l
 
 | 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
-| PyCharm      | Python       | Make a website with Flask   |
+| PyCharm      | Python       | Finish my stock analysis seminar project   |
 
 ### Connect with me-
 
 - [LinkedIn](https://www.linkedin.com/in/christopher-faris-58145328a/)
 - [My Webpage](https://chrisfaris.infinityfreeapp.com/)
+- [Email Me](mailto:chris.faris@icloud.com)
 
 Feel free to reach out! Always looking to make new connections. 🙂
