@@ -19,10 +19,11 @@ I look to learn web development next and create some personal projects. Always l
 - [Hibernate To-Do list app](https://github.com/chrisF943/To-Do-App)
 - [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
+- [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
 
 | 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
-| PyCharm      | Python       | Finish my stock analysis seminar project   |
+| PyCharm      | Python       | Start a new Pythomn personal project   |
 
 ### Connect with me-
 
