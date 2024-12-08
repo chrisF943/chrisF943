@@ -31,4 +31,4 @@ I look to learn web development next and create some personal projects. Always l
 - [My Webpage](https://chrisfaris.infinityfreeapp.com/)
 - [Email Me](mailto:chris.faris@icloud.com)
 
-Feel free to reach out! Always looking to make new connections. 🙂
+Feel free to reach out! Always looking to make new connections and collaborate. 🙂
