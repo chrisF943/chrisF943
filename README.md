@@ -1,4 +1,4 @@
-# 👋Christopher Faris - Programmer and Student at Valencia College
+# 👋 Hi, I'm Christopher Faris, a programmer and student at Valencia College
 
 ### A little bit about me:
 
@@ -23,7 +23,7 @@ I look to learn web development next and create some personal projects. Always l
 
 | 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
-| PyCharm      | Python       | Start a new Pythomn personal project   |
+| PyCharm      | Python       | Start a new Python personal project   |
 
 ### Connect with me-
 
