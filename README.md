@@ -23,7 +23,7 @@ I look to learn web development next and create some personal projects. Always l
 
 | 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
-| PyCharm      | Python       | Work with Gemini models   |
+| PyCharm      | Python       | Gemini API Project   |
 
 ### Connect with me-
 
