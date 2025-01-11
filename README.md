@@ -2,10 +2,10 @@
 
 ### A little bit about me:
 
-I moved Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
+I moved to Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
 I am in my final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have recently learned Python as my second language after Java and it quickly has become my favorite. 
-I look to learn strengthen my Python knowledge in pursuit of a career after graduation. Always looking to learn new skills and make new connections.
+I have recently learned Python as my second language after Java and it quickly has become my favorite, some other skills of mine include Docker, Jenkins, HTML and Hibernate. 
+I look to strengthen my Python knowledge in pursuit of a career after graduation. I am always looking to learn new skills and make new connections.
 
 ### My hobbies-
 
