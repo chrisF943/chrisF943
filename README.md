@@ -4,8 +4,8 @@
 
 I moved to Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
 I am in my final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have recently learned Python as my second language after Java and it quickly has become my favorite, some other skills of mine include Docker, Jenkins, HTML and Hibernate. 
-I look to strengthen my Python knowledge in pursuit of a career after graduation. I am always looking to learn new skills and make new connections.
+I have recently learned Python as my second language after Java and it quickly has become my favorite, some other skills of mine include HTML, SQl and AI prompting
+I look to strengthen my Python knowledge in pursuit of a career after graduation. Always looking to apply my skills to impactful projects
 
 ### My hobbies-
 
@@ -21,9 +21,9 @@ I look to strengthen my Python knowledge in pursuit of a career after graduation
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
 - [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
 
-| 💻Favorite IDE      | 🌟Favorite Language | 💭What's Next?     |   
+| 📚Favorite Library      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
-| PyCharm      | Python       | Gemini API Project   |
+| Selenium      | Python       | Gemini API Project   |
 
 ### Connect with me-
 
@@ -31,4 +31,4 @@ I look to strengthen my Python knowledge in pursuit of a career after graduation
 - [My Webpage](https://chrisfaris.infinityfreeapp.com/)
 - [Email Me](mailto:chris.faris@icloud.com)
 
-Feel free to reach out! Always looking to make new connections and collaborate. 🙂
+Feel free to reach out! Open to make new connections and collaborate. 🙂
