@@ -28,7 +28,7 @@ I look to strengthen my Python knowledge in pursuit of a career after graduation
 ### Connect with me-
 
 - [LinkedIn](https://www.linkedin.com/in/christopher-faris-58145328a/)
-- [My Portfolio](https://chrisfaris.netlify.app/)
+- [Contact Page](https://chrisfaris.infinityfreeapp.com/)
 - [Email Me](mailto:chris.faris@icloud.com)
 
 Feel free to reach out! Open to make new connections and collaborate. 🙂
