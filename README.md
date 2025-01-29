@@ -4,8 +4,8 @@
 
 I moved to Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
 I am in my final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have recently learned Python as my second language after Java and it quickly has become my favorite, some other skills of mine include HTML, SQl and AI prompting
-I look to strengthen my Python knowledge in pursuit of a career after graduation. Always looking to apply my skills to impactful projects
+I have recently learned Python as my second language after Java and it quickly has become my favorite, some other skills of mine include working with SQl databases, web
+development and some familiarity with data science and AI/ML. I look to strengthen my Python knowledge in pursuit of a career after graduation. Always looking to apply my skills to impactful projects
 
 ### My hobbies-
 
