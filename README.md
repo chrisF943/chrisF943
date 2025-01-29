@@ -11,7 +11,7 @@ I look to strengthen my Python knowledge in pursuit of a career after graduation
 
 - 📺Watching basketball, football and baseball.
 - 🏓Playing pickleball.
-- 🎮Playing videogames like Borderlands and Rocket League.
+- 🎮Playing videogames like The Division 2 and Dead By Daylight.
 - 🍔Trying new restaurants.
 
 ### Some of my projects-
