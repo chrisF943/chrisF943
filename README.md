@@ -28,7 +28,7 @@ development and some familiarity with data science and AI/ML. Always looking to 
 ### Connect with me-
 
 - [LinkedIn](https://www.linkedin.com/in/christopher-faris-58145328a/)
-- [Contact Page](https://chrisfaris.infinityfreeapp.com/)
+- [My Portfolio](https://chrisfaris.netlify.app/)
 - [Email Me](mailto:chris.faris@icloud.com)
 
 Feel free to reach out! Open to make new connections and collaborate. 🙂
