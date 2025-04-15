@@ -4,8 +4,7 @@
 
 I moved to Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
 I am in my final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have recently learned Python as my second language after Java and it quickly has become my favorite, some other skills of mine include working with SQL databases, web
-development and some familiarity with data science and AI/ML. Always looking to strengthen my skills and contribute to make an impact.
+I am a Python developer and my current focus is to sharpen my skills in data science/engineering. Some other skills of mine include SQL, web development, and some AI/ML work. This summer, I am extremely eager to intern at Hillpointe where I will be a data engineer. Always looking to strengthen my skills and contribute with others to make an impact.
 
 ### My hobbies-
 
@@ -20,6 +19,7 @@ development and some familiarity with data science and AI/ML. Always looking to 
 - [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
 - [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
+- [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 
 | 📚Favorite Library      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
