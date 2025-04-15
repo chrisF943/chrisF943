@@ -23,7 +23,7 @@ development and some familiarity with data science and AI/ML. Always looking to 
 
 | 📚Favorite Library      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
-| Selenium      | Python       | Gemini API Project   |
+| Selenium      | Python       | Crypto Price Tracking   |
 
 ### Connect with me-
 
