@@ -10,7 +10,7 @@ I am a Python developer and my current focus is to sharpen my skills in data sci
 
 - 📺Watching basketball, football and baseball.
 - 🏓Playing pickleball.
-- 🎮Playing videogames like The Division 2 and Dead By Daylight.
+- 🎮Playing videogames like The Division 2, Dead By Daylight, and Borderlands.
 - 🍔Trying new restaurants.
 
 ### Some of my projects-
