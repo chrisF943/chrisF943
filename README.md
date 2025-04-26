@@ -3,8 +3,8 @@
 ### A little bit about me:
 
 I moved to Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
-I am in my final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have a love for Python and my current focus is to sharpen my skills in data science/engineering. Some other skills of mine include SQL, web development, and some AI/ML work. This summer, I am extremely eager to intern at Hillpointe where I will be a data engineer. I am always looking to strengthen my skills and contribute with others to make an impact.
+I am in the final year of my BAS for Computing Technology and Software Development at Valencia College.
+I have a love for Python and my current focus is to sharpen my skills in data science/engineering. This summer, I am extremely eager to intern at Hillpointe as a data engineer. I am always looking to strengthen my skills and contribute with others to make an impact.
 
 ### My hobbies-
 
