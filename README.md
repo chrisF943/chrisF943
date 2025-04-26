@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Christopher Faris, a developer and senior at Valencia College
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 ![Degree Progress](https://img.shields.io/badge/BAS_Completion-90%25-brightgreen?style=for-the-badge)
 
 ### A little bit about me:
@@ -23,16 +25,14 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 
 ### My Skills-
-| Skill             | Icon                                                                                                      | Description                              |
-|--------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
-| Python            | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    | Proficient in Python for data science, automation, and web development. |
-| Git               | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)             | Experienced in version control with Git. |
-| Java              | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)          | Skilled in Java for backend development. |
-| SQL               | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)      | Strong understanding of databases and SQL queries. |
-| Azure             | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | Familiar with cloud services on Microsoft Azure. |
-| Flask             | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)       | Proficient in developing web applications using Flask. |
-| Scikit-learn      | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Experienced in machine learning with Scikit-learn. |
-| Google Gemini     | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) | Knowledgeable in leveraging Google Gemini for AI/ML tasks. |
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" height="50" alt="Flask" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" alt="SQL" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" />
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=github_dark&hide=stars)](https://github.com/chrisF943/github-readme-stats)
 
