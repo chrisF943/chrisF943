@@ -16,6 +16,7 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - 🍔Trying new restaurants.
 
 ### Some of my projects-
+
 - [Hibernate To-Do list app](https://github.com/chrisF943/To-Do-App)
 - [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
@@ -23,10 +24,14 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 
 ### What I use the most-
+
 [![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,ai&perline=4)](https://skillicons.dev)
 
 ### What I'm familiar with-
+
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,netlify,flask,selenium,html,css,js,bootstrap,docker,jenkins,gitubactions&perline=4)](https://skillicons.dev)
+
+### Some cool stats-
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
 
