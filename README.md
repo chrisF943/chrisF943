@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Christopher Faris, a developer and senior at Valencia College
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1px&duration=2000&color=1E6AE9&multiline=true&repeat=false&width=510&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Christopher%2C+a+developer+and+senior+at+Valencia+College;senior+at+Valencia+College)](https://git.io/typing-svg)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-![Degree Progress](https://img.shields.io/badge/BAS_Completion-90%25-brightgreen?style=for-the-badge)
+![Degree Progress](https://img.shields.io/badge/Degree_Progress-90%25-brightgreen?style=for-the-badge)
 
 ### A little bit about me:
 
@@ -24,17 +22,13 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 
-### My Skills-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" height="50" alt="Flask" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" alt="SQL" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" height="50" alt="Azure" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50" height="50" alt="Google Cloud" />
+### What I use the most-
+[![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,ai&perline=4)](https://skillicons.dev)
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=github_dark&hide=stars)](https://github.com/chrisF943/github-readme-stats)
+### What I'm familiar with-
+[![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,netlify,flask,selenium,html,css,js,bootstrap,docker,jenkins,gitubactions&perline=4)](https://skillicons.dev)
+
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
 
 ### Connect with me-
 
