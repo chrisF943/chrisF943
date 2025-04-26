@@ -24,7 +24,7 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 |   :---:     |    :---:    |     :---:     | 
 | Selenium      | Python       | Crypto Price Tracking   |
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943)](https://github.com/chrisF943/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=github_dark&hide=stars)](https://github.com/chrisF943/github-readme-stats)
 
 ### Connect with me-
 
