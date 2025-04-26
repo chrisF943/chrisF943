@@ -14,7 +14,6 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - 🍔Trying new restaurants.
 
 ### Some of my projects-
-- [Java/SQLite library management system](https://github.com/chrisF943/Faris_Chris_LMS)
 - [Hibernate To-Do list app](https://github.com/chrisF943/To-Do-App)
 - [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
@@ -24,6 +23,8 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 | 📚Favorite Library      | 🌟Favorite Language | 💭What's Next?     |   
 |   :---:     |    :---:    |     :---:     | 
 | Selenium      | Python       | Crypto Price Tracking   |
+
+[!Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943)](https://github.com/chrisF943/github-readme-stats)
 
 ### Connect with me-
 
