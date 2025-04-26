@@ -23,14 +23,16 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 
 ### My Skills-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+| Skill             | Icon                                                                                                      | Description                              |
+|--------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------|
+| Python            | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    | Proficient in Python for data science, automation, and web development. |
+| Git               | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)             | Experienced in version control with Git. |
+| Java              | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)          | Skilled in Java for backend development. |
+| SQL               | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)      | Strong understanding of databases and SQL queries. |
+| Azure             | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | Familiar with cloud services on Microsoft Azure. |
+| Flask             | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)       | Proficient in developing web applications using Flask. |
+| Scikit-learn      | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Experienced in machine learning with Scikit-learn. |
+| Google Gemini     | ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) | Knowledgeable in leveraging Google Gemini for AI/ML tasks. |
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=github_dark&hide=stars)](https://github.com/chrisF943/github-readme-stats)
 
