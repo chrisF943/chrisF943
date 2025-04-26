@@ -22,7 +22,8 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 - [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 
-### My Skills-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### My Skills-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
