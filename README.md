@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1px&duration=2000&color=2C86E9&multiline=true&repeat=false&width=510&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Christopher%2C+a+developer+and+senior+at+Valencia+College;senior+at+Valencia+College)](https://git.io/typing-svg)
 
-![Degree Progress](https://img.shields.io/badge/Degree_Progress-90%25-brightgreen?style=for-the-badge)
+![Degree Progress](https://img.shields.io/badge/Degree_Progress-90%25-brightgreen?style=for-the-badge) ![Code Badge](https://img.shields.io/badge/code-shipped-blue?style=for-the-badge&logo=Hack%20The%20Box&logoSize=auto&color=blue)
+
 
 ### A little bit about me:
 
