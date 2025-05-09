@@ -25,7 +25,7 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 
 ### What I use the most-
 
-[![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,ai,gcp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,gcp&perline=4)](https://skillicons.dev)
 
 ### What I'm familiar with-
 
