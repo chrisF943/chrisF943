@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1px&duration=2000&color=2C86E9&multiline=true&repeat=false&width=510&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Christopher%2C+a+developer+and+senior+at+Valencia+College;senior+at+Valencia+College)](https://git.io/typing-svg)
 
-![Degree Progress](https://img.shields.io/badge/Degree_Progress-90%25-brightgreen?style=for-the-badge) ![Code Badge](https://img.shields.io/badge/code-shipped-blue?style=for-the-badge&logo=Hack%20The%20Box&logoSize=auto&color=blue) ![Static Badge](https://img.shields.io/badge/data-cleaned-navy?style=for-the-badge&logo=alwaysdata&logoColor=white&logoSize=auto)
+<img src="https://img.shields.io/badge/Degree_Progress-90%25-brightgreen?style=for-the-badge" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/code-shipped-blue?style=for-the-badge&logo=Hack%20The%20Box&logoSize=auto&color=blue" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/data-cleaned-navy?style=for-the-badge&logo=alwaysdata&logoColor=white&logoSize=auto" />
 
 ### A little bit about me:
 
@@ -25,7 +25,7 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 
 ### What I use the most-
 
-[![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,ai&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,ai,gcp&perline=4)](https://skillicons.dev)
 
 ### What I'm familiar with-
 
@@ -33,7 +33,7 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 
 ### Some cool stats-
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
 
 ### Connect with me-
 
