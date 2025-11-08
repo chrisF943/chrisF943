@@ -33,7 +33,7 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 
 ### Some cool stats-
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
+[![Chris's GitHub stats](github-readme-stats-ochre-seven-97.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) &nbsp;&nbsp; [![Top Langs](github-readme-stats-ochre-seven-97.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
 
 ### Connect with me-
 
