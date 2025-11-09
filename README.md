@@ -4,20 +4,18 @@
 
 ### A little bit about me:
 
-I moved to Orlando from Detroit, Michigan a little over 3 years ago and have enjoyed my time here in Florida so far.
-I am in the final year of my BAS for Computing Technology and Software Development at Valencia College.
-I have a love for Python and my current focus is to sharpen my skills in data science/engineering. This summer, I am extremely eager to intern at Hillpointe as a data engineer. I am always looking to strengthen my skills and contribute with others to make an impact.
+Having lived in Orlando, Florida for a few years now, I am on the verge of completing my BAS for Computing Technology and Software Development at Valencia College.
+I have a love for innovating and crafting solutions to tackle perplexing tasks and problems, and all things data. I feel right at home when I am building data pipelines, coding my own side projects, and learning new skills to put to practice.
 
-### My hobbies-
+### When I'm not at my computer you can find me-
 
 - 📺Watching basketball, football and baseball.
-- 🏓Playing pickleball.
-- 🎮Playing videogames like The Division 2, Dead By Daylight, and Borderlands.
-- 🍔Trying new restaurants.
+- 🎮Playing videogames like Dead By Daylight, Borderlands, and Call of Duty.
+- 🍔Going out to eat.
 
 ### Some of my projects-
 
-- [Hibernate To-Do list app](https://github.com/chrisF943/To-Do-App)
+- [Python Password Manager App](https://github.com/chrisF943/Password-Manager)
 - [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
 - [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
@@ -31,9 +29,11 @@ I have a love for Python and my current focus is to sharpen my skills in data sc
 
 [![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,netlify,flask,selenium,html,css,js,bootstrap,docker,jenkins,gitubactions&perline=4)](https://skillicons.dev)
 
-### Some cool stats-
+### A look into my journey-
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisF943&theme=transparent&hide=stars)](https://github.com/chrisF943/github-readme-stats) &nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=compact)](https://github.com/chrisF943/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=donut)](https://github.com/chrisF943/github-readme-stats) ![Metrics](/metrics.base.svg)
+
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ### Connect with me-
 
