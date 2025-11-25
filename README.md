@@ -31,7 +31,7 @@ I have a love for innovating and crafting solutions to tackle perplexing tasks a
 
 ### A look into my journey-
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent&layout=donut)](https://github.com/chrisF943/github-readme-stats) ![Metrics](/metrics.base.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943)](https://github.com/chrisF943/github-readme-stats) ![Metrics](/metrics.base.svg)
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
