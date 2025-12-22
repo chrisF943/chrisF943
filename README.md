@@ -1,11 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1px&duration=2000&color=2C86E9&multiline=true&repeat=false&width=510&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Christopher%2C+a+developer+and+senior+at+Valencia+College;senior+at+Valencia+College)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Degree_Progress-90%25-brightgreen?style=for-the-badge" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/code-shipped-blue?style=for-the-badge&logo=Hack%20The%20Box&logoSize=auto&color=blue" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/data-cleaned-navy?style=for-the-badge&logo=alwaysdata&logoColor=white&logoSize=auto" />
+<img src="https://img.shields.io/badge/Degree_Progress-100%25-brightgreen?style=for-the-badge" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/code-shipped-blue?style=for-the-badge&logo=Hack%20The%20Box&logoSize=auto&color=blue" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/data-cleaned-navy?style=for-the-badge&logo=alwaysdata&logoColor=white&logoSize=auto" />
 
 ### A little bit about me:
 
-Having lived in Orlando, Florida for a few years now, I am on the verge of completing my BAS for Computing Technology and Software Development at Valencia College.
-I have a love for innovating and crafting solutions to tackle perplexing tasks and problems, and all things data. I feel right at home when I am building data pipelines, coding my own side projects, and learning new skills to put to practice.
+Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with a passion for innovating and crafting solutions to tackle perplexing tasks and problems, and all things data. I feel right at home when I am building data pipelines, coding my own side projects, and learning new skills to put to practice. Most recently, I proudly completed my BAS in Computing Technology & Software Development from Valencia College and currently work in a data engineering role at Hillpointe, a multifamily development firm.
 
 ### When I'm not at my computer you can find me-
 
@@ -31,7 +30,7 @@ I have a love for innovating and crafting solutions to tackle perplexing tasks a
 
 ### A look into my journey-
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943)](https://github.com/chrisF943/github-readme-stats) ![Metrics](/metrics.base.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent)](https://github.com/chrisF943/github-readme-stats) ![Metrics](/metrics.base.svg)
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
