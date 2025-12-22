@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1px&duration=2000&color=2C86E9&multiline=true&repeat=false&width=510&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Christopher%2C+a+developer+and+senior+at+Valencia+College;senior+at+Valencia+College)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&letterSpacing=1px&duration=2000&color=2C86E9&multiline=true&repeat=false&width=510&height=60&lines=%F0%9F%91%8B+Hi%2C+welcome+to+my+GitHub+and+take+a;look+around.)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Degree_Progress-100%25-brightgreen?style=for-the-badge" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/code-shipped-blue?style=for-the-badge&logo=Hack%20The%20Box&logoSize=auto&color=blue" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/data-cleaned-navy?style=for-the-badge&logo=alwaysdata&logoColor=white&logoSize=auto" />
 
