@@ -4,7 +4,7 @@
 
 ### A little bit about me:
 
-Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with a passion for innovating and crafting solutions to tackle perplexing tasks and problems, and all things data. I feel right at home when I am building data pipelines, coding my own side projects, and learning new skills to put to practice. Most recently, I proudly completed my BAS in Computing Technology & Software Development from Valencia College and currently my role is Jr. Data Engineer at Hillpointe, a multifamily development firm.
+Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with a passion for innovating and crafting solutions to tackle perplexing tasks and problems, and all things data. I feel right at home when I am building data pipelines, coding my own side projects, and learning new skills to put to practice. Most recently, I proudly completed my BAS in Computing Technology & Software Development from Valencia College and currently my role is Jr. Data Engineer at Hillpointe, a multifamily development firm based out of Orlando, FL.
 
 ### When I'm not at my computer you can find me-
 
