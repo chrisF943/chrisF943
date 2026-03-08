@@ -30,7 +30,8 @@ Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with
 
 ### A look into my journey-
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisF943&theme=transparent)](https://github.com/chrisF943/github-readme-stats) ![Metrics](/metrics.base.svg)
+![Top Langs](/metrics.plugin.languages.details.svg) 
+![Metrics](/metrics.base.svg)
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
