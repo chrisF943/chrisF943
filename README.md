@@ -24,15 +24,12 @@ Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with
 
 ### What I use the most-
 
-[![My Skills](https://skillicons.dev/icons?i=apple,py,pycharm,sklearn,mysql,sqlite,git,github,bash,azure,gcp&perline=4)](https://skillicons.dev)
-
-### What I'm familiar with-
-
-[![My Skills](https://skillicons.dev/icons?i=java,maven,hibernate,netlify,flask,selenium,html,css,js,bootstrap,docker,jenkins,gitubactions&perline=4)](https://skillicons.dev)
+[![Some of My Skills](https://skillicons.dev/icons?i=py,sklearn,mysql,sqlite,git,github,bash,azure,gcp,css,express,flask,html,js,nginx,nodejs,react,tailwind,ts,vite,vue&perline=4)](https://skillicons.dev)
 
 ### A look into my journey-
 
 ![Top Langs](/metrics.plugin.languages.details.svg) 
+
 ![Metrics](/metrics.base.svg)
 
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
