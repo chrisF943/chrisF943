@@ -14,12 +14,15 @@ Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with
 
 ### Some of my projects-
 
+- [HomeWave - a macOS music visualizer that re-themes to your album art](https://github.com/chrisF943/home-wave)
 - [Fern - a local password manager](https://github.com/chrisF943/fern-password-manager)
-- [Python hashing with JSON](https://github.com/chrisF943/Python-Hashing)
 - [Collecting stock data with Python](https://github.com/chrisF943/Seminar-Project)
-- [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 - [PyShip - Retro Python BattleShip](https://github.com/chrisF943/PyShip)
+
+### Tools I've built-
+
+- [Rate My Code - a star-rating review system for your codebase](https://github.com/chrisF943/rate-my-code)
 
 ### What I use the most-
 
