@@ -20,7 +20,6 @@ Nice to meet you! I'm Chris, an enthusiastic builder and analytical thinker with
 - [Maven Jenkins pipeline integrated with various tools](https://github.com/chrisF943/CEN4802)
 - [Learn Python tips with Gemini](https://github.com/chrisF943/Gemini-Python-Tips)
 - [PyShip - Retro Python BattleShip](https://github.com/chrisF943/PyShip)
-- [ViceRoy - Coming Soon]
 
 ### What I use the most-
 
